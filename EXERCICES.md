@@ -15,8 +15,8 @@ Le but est de créer une applicationa avec au moins deux entités liées entre e
 *Avoir une liste de personnes avec leurs informations de bases, une liste de batiments, et lié les personnes au batiments*
 
 Listes des points attendu:
-- [ ] Créer au moins deux entité avec les commandes
-- [ ] Créer le fichier de migration avec la commande symfony
+- [x] Créer au moins deux entité avec les commandes
+- [x] Créer le fichier de migration avec la commande symfony
 - [ ] Créer au moins un controller avec sa vue twig
 - [ ] Créer une commande qui ajoute des données en BDD
 - [ ] script bash qui execute tout les test
