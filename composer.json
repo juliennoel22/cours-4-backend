@@ -1,4 +1,6 @@
-{
+{   
+    "name": "juliennoel22/cours-4-backend",
+    "description": "Cours 4 Backend",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
